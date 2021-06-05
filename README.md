@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @alek-v
 - 👀 I’m interested in website development including PHP/MySQL, SEO and web design
-- 🌱 I’m currently learning WordPress and Laravel
-- 💞️ I’m looking to collaborate on web dev projects
 - 📫 You can reach using contact form at https://www.vavok.net
 
 <!---
